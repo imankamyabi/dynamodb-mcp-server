@@ -306,6 +306,29 @@ Example:
 }
 ```
 
+## Sample Questions
+
+Here are some example questions you can ask Claude when using this DynamoDB MCP server:
+
+### Table Management
+- "Create a new DynamoDB table called 'Products' with a partition key 'productId' (string) and sort key 'timestamp' (number)"
+- "List all DynamoDB tables in my account"
+- "What's the current configuration of the Users table?"
+- "Add a global secondary index on the email field of the Users table"
+
+### Capacity Management
+- "Update the Users table capacity to 20 read units and 15 write units"
+- "Scale up the EmailIndex GSI capacity on the Users table"
+- "What's the current provisioned capacity for the Orders table?"
+
+### Data Operations
+- "Insert a new user with ID '123', name 'John Doe', and email 'john@example.com'"
+- "Get the user with ID '123'"
+- "Update the email address for user '123' to 'john.doe@example.com'"
+- "Find all orders placed by user '123'"
+- "List all users who are over 21 years old"
+- "Query the EmailIndex to find the user with email 'john@example.com'"
+
 ## Configuration
 
 ### Setting up AWS Credentials
