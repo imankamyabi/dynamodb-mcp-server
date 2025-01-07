@@ -1,6 +1,6 @@
 # DynamoDB MCP Server
 
-A Model Context Protocol server for managing Amazon DynamoDB resources. This server provides tools for table management, capacity management, and data operations.
+A [Model Context Protocol server](https://modelcontextprotocol.io/) for managing Amazon DynamoDB resources. This server provides tools for table management, capacity management, and data operations.
 
 ## Author
 
