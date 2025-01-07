@@ -30,6 +30,8 @@ Iman Kamyabi (ikmyb@icloud.com)
 - Query tables with conditions
 - Scan tables with filters
 
+> **Note**: Delete operations are not supported to prevent accidental data loss.
+
 ## Setup
 
 1. Install dependencies:
