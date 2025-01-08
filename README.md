@@ -2,6 +2,8 @@
 
 A [Model Context Protocol server](https://modelcontextprotocol.io/) for managing Amazon DynamoDB resources. This server provides tools for table management, capacity management, and data operations.
 
+<a href="https://glama.ai/mcp/servers/3voqtftc3c"><img width="380" height="200" src="https://glama.ai/mcp/servers/3voqtftc3c/badge" alt="DynamoDB Server MCP server" /></a>
+
 ## Author
 
 Iman Kamyabi (ikmyb@icloud.com)
