@@ -1,4 +1,5 @@
 # DynamoDB MCP Server
+[![smithery badge](https://smithery.ai/badge/@imankamyabi/dynamodb-mcp-server)](https://smithery.ai/server/@imankamyabi/dynamodb-mcp-server)
 
 A [Model Context Protocol server](https://modelcontextprotocol.io/) for managing Amazon DynamoDB resources. This server provides tools for table management, capacity management, and data operations.
 
@@ -34,6 +35,15 @@ Iman Kamyabi (ikmyb@icloud.com)
 
 ## Setup
 
+### Installing via Smithery
+
+To install DynamoDB Server for Claude Desktop automatically via [Smithery](https://smithery.ai/server/@imankamyabi/dynamodb-mcp-server):
+
+```bash
+npx -y @smithery/cli install @imankamyabi/dynamodb-mcp-server --client claude
+```
+
+### Manual installation
 1. Install dependencies:
 ```bash
 npm install
